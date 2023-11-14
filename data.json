@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "JavaScript",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque in repudiandae quis numquam nam",
+        "link": "./js.png"
+    }, 
+    {
+        "id": 2,
+        "name": "React",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque in repudiandae quis numquam nam",
+        "link": "./react.png"
+    },
+    {
+        "id": 3,
+        "name": "C++",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque in repudiandae quis numquam nam",
+        "link": "./Cpp.png"
+    },
+    {
+        "id": 4,
+        "name": "PHP",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque in repudiandae quis numquam nam",
+        "link": "./php.png"
+    },
+    {
+        "id": 5,
+        "name": "Python",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque in repudiandae quis numquam nam",
+        "link": "./python.png"
+    },
+    {
+        "id": 6,
+        "name": "TypeScript",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque in repudiandae quis numquam nam",
+        "link": "./ts.png"
+    }   
+]
